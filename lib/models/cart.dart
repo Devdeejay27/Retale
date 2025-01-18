@@ -8,8 +8,7 @@ class Cart extends ChangeNotifier {
         name: 'Air Jordan',
         price: '245',
         imagePath: 'lib/images/Nike Air Jordan.png',
-        description:
-            "You've got the hops and speed-lace up in shoes that enhance your performance."),
+        description: "You've got the hops and speed-lace up in these shoes."),
     Shoe(
       name: 'Louis Vuitton',
       price: '250',
@@ -20,8 +19,7 @@ class Cart extends ChangeNotifier {
       name: 'Air Strip',
       price: '240',
       imagePath: 'lib/images/Nike Air Strip.png',
-      description:
-          'A secure midfootstrap suited for scoring binges and defensive plays',
+      description: 'A secure midfootstrap suited for defensive plays.',
     ),
     Shoe(
       name: 'KD Treys',
